@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testreactapp/static/css/main.2cce8147.chunk.css",
+    "main.js": "/testreactapp/static/js/main.4e494456.chunk.js",
+    "main.js.map": "/testreactapp/static/js/main.4e494456.chunk.js.map",
+    "runtime~main.js": "/testreactapp/static/js/runtime~main.4feacf41.js",
+    "runtime~main.js.map": "/testreactapp/static/js/runtime~main.4feacf41.js.map",
+    "static/js/2.b41502e9.chunk.js": "/testreactapp/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/testreactapp/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/testreactapp/index.html",
+    "precache-manifest.7ac3a500f56625282c40a85ad7276414.js": "/testreactapp/precache-manifest.7ac3a500f56625282c40a85ad7276414.js",
+    "service-worker.js": "/testreactapp/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/testreactapp/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/testreactapp/static/media/logo.5d5d9eef.svg"
+  }
+}
